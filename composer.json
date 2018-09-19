@@ -10,6 +10,7 @@
         "easycorp/easy-log-handler": "^1.0.7",
         "sensio/framework-extra-bundle": "^5.2",
         "sensiolabs/security-checker": "^4.1",
+        "symfony/asset": "*",
         "symfony/console": "*",
         "symfony/debug-bundle": "^3.3|^4.0",
         "symfony/flex": "^1.1",
